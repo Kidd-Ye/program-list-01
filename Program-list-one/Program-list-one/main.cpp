@@ -13,7 +13,7 @@ using namespace std;
 
 #define MaxSize 50
 
-typedef struct student
+typedef struct List
 {
     int data[MaxSize];
     int length;
